@@ -10,6 +10,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | ------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------- |
 | Fri 16 Feb 24 | [AI for coding](https://github.com/astro-group-bristol/developer-group/issues/16)                                        | @phajy            |
 | Fri 23 Feb 24 | [How to make a free PIMPING website with GitHub pages](https://github.com/astro-group-bristol/developer-group/issues/12) | @RhysAlfShaw      |
+| Fri 30 Feb 24 | [Ship your machine with Docker](https://github.com/astro-group-bristol/developer-group/issues/18)                        | @fjebaker         |
 
 ## Agenda
 
