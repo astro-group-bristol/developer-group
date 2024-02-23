@@ -6,10 +6,9 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date          | Topic                                                                                                                    | Discussion Leader |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| Fri 23 Feb 24 | [How to make a free PIMPING website with GitHub pages](https://github.com/astro-group-bristol/developer-group/issues/12) | @RhysAlfShaw      |
-| Fri 30 Feb 24 | [Ship your machine with Docker](https://github.com/astro-group-bristol/developer-group/issues/18)                        | @fjebaker         |
+| Date           | Topic                                                                                             | Discussion Leader |
+| -------------- | ------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 1 March 24 | [Ship your machine with Docker](https://github.com/astro-group-bristol/developer-group/issues/18) | @fjebaker         |
 
 ## Agenda
 
@@ -22,9 +21,10 @@ Each week the agenda is as follows:
 
 ## Past meetups
 
-| Date          | Topic                                                                                              | Discussion Leader |
-| ------------- | -------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 26 Jan 24 | The New Year                                                                                       | @phajy            |
-| Fri 02 Feb 24 | [Intro to debugging (in Python)](https://github.com/astro-group-bristol/developer-group/issues/13) | @fjebaker         |
-| Fri 09 Feb 24 | [Regex](https://github.com/astro-group-bristol/developer-group/issues/14)                          | @HallJoseph       |
-| Fri 16 Feb 24 | [AI for coding](https://github.com/astro-group-bristol/developer-group/issues/16)                  | @phajy            |
+| Date          | Topic                                                                                                                    | Discussion Leader |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| Fri 26 Jan 24 | The New Year                                                                                                             | @phajy            |
+| Fri 02 Feb 24 | [Intro to debugging (in Python)](https://github.com/astro-group-bristol/developer-group/issues/13)                       | @fjebaker         |
+| Fri 09 Feb 24 | [Regex](https://github.com/astro-group-bristol/developer-group/issues/14)                                                | @HallJoseph       |
+| Fri 16 Feb 24 | [AI for coding](https://github.com/astro-group-bristol/developer-group/issues/16)                                        | @phajy            |
+| Fri 23 Feb 24 | [How to make a free PIMPING website with GitHub pages](https://github.com/astro-group-bristol/developer-group/issues/12) | @RhysAlfShaw      |
