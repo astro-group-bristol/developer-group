@@ -9,6 +9,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | Date           | Topic                                                                                             | Discussion Leader |
 | -------------- | ------------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 1 March 24 | [Ship your machine with Docker](https://github.com/astro-group-bristol/developer-group/issues/18) | @fjebaker         |
+| Fri 8 March 24 | [Common git and GitHub errors](https://github.com/astro-group-bristol/developer-group/issues/20)  | @lucyastro        |
 
 ## Agenda
 
