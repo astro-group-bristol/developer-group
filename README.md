@@ -6,9 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                                           | Discussion Leader |
-| --------------- | ----------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 15 March 24 | [Profiling with Flame Graphs](https://github.com/astro-group-bristol/developer-group/issues/19) | @mbtaylor         |
+| Date            | Topic                                                                                                                    | Discussion Leader |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| Fri 15 March 24 | [Profiling with Flame Graphs](https://github.com/astro-group-bristol/developer-group/issues/19)                          | @mbtaylor         |
+| Fri 05 April 24 | [The trials and tribulations of teaching coding units](https://github.com/astro-group-bristol/developer-group/issues/22) | @DrMaireGorman    |
 
 ## Agenda
 
