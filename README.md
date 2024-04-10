@@ -6,9 +6,9 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                                                                    | Discussion Leader |
-| --------------- | ------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| Fri 05 April 24 | [The trials and tribulations of teaching coding units](https://github.com/astro-group-bristol/developer-group/issues/22) | @DrMaireGorman    |
+| Date            | Topic                                                                                           | Discussion Leader |
+| --------------- | ----------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 12 April 24 | [Developing a Python Package](https://github.com/astro-group-bristol/developer-group/issues/24) | @fjebaker         |
 
 ## Agenda
 
@@ -32,3 +32,4 @@ Each week the agenda is as follows:
 | Fri 8 March 24  | [Common git and GitHub errors](https://github.com/astro-group-bristol/developer-group/issues/20)                         | @lucyastro        |
 | Fri 15 March 24 | [Profiling with Flame Graphs](https://github.com/astro-group-bristol/developer-group/issues/19)                          | @mbtaylor         |
 | Fri 22 March 24 | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                                       | Rhys Morris       |
+| Fri 05 April 24 | [The trials and tribulations of teaching coding units](https://github.com/astro-group-bristol/developer-group/issues/22) | @DrMaireGorman    |
