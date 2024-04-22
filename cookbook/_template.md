@@ -16,6 +16,6 @@ def say_hello():
 Put your figures in the `.github/assets/` directory, and prefix the path to them
 
 ```
-![a description of my amazing figure](.github/assets/my-amazing-figure.png)
+![a description of my amazing figure](../.github/assets/my-amazing-figure.png)
 ```
 
