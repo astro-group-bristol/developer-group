@@ -9,6 +9,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | Date            | Topic                                                                                        | Discussion Leader |
 | --------------- | -------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 26 April 24 | [An introduction to Julia](https://github.com/astro-group-bristol/developer-group/issues/26) | @fjebaker         |
+| Fri 03 May 24   | [SQL, ADQL, and TAP](https://github.com/astro-group-bristol/developer-group/issues/28)       | @mbtaylor         |
 
 ## Agenda
 
@@ -34,4 +35,4 @@ Each week the agenda is as follows:
 | Fri 22 March 24 | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                                       | Rhys Morris       |
 | Fri 05 April 24 | [The trials and tribulations of teaching coding units](https://github.com/astro-group-bristol/developer-group/issues/22) | @DrMaireGorman    |
 | Fri 12 April 24 | [Developing a Python Package](https://github.com/astro-group-bristol/developer-group/issues/24)                          | @fjebaker         |
-| Fri 19 April 24 | [Git Workflows](https://github.com/astro-group-bristol/developer-group/issues/6)             | @hstewart93       |
+| Fri 19 April 24 | [Git Workflows](https://github.com/astro-group-bristol/developer-group/issues/6)                                         | @hstewart93       |
