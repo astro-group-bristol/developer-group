@@ -5,6 +5,6 @@
 
 ## List of recipes
 
-To add your own recipe, follow the [short guide](developer-recipe.md).
+To add your own recipe, follow the [short guide](developer-recipes.md).
 
-- [Adding a recipe to the Astro Dev Cookbook](developer-recipe.md)
+- [Adding a recipe to the Astro Dev Cookbook](developer-recipes.md)
