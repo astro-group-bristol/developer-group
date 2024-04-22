@@ -5,4 +5,6 @@
 
 ## List of recipes
 
-- There are no recipes yet. Please open a Pull Request to submit yours!
+To add your own recipe, follow the [short guide](developer-recipe.md).
+
+- [Adding a recipe to the Astro Dev Cookbook](developer-recipe.md)
