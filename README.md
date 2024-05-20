@@ -6,9 +6,9 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date | Topic                         | Discussion Leader |
-| ---- | ----------------------------- | ----------------- |
-|      | No upcoming meetups scheduled |                   |
+| Date            | Topic                     | Discussion Leader |
+| --------------- | ------------------------- | ----------------- |
+| Fri 20 May 2024 | Housekeeping and planning | @fjebaker         |
 
 ## Agenda
 
