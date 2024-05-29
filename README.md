@@ -6,9 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                                   | Discussion Leader |
-| --------------- | --------------------------------------------------------------------------------------- | ----------------- |
-| Fri 31 May 2024 | [Command line tricks](https://github.com/astro-group-bristol/developer-group/issues/43) | @fjebaker         |
+| Date             | Topic                                                                                                           | Discussion Leader |
+| ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 31 May 2024  | [Command line tricks](https://github.com/astro-group-bristol/developer-group/issues/43)                         | @fjebaker         |
+| Fri 07 June 2024 | [Kanban (and other Project Management tools)](https://github.com/astro-group-bristol/developer-group/issues/30) | @HallJoseph       |
 
 ## Agenda
 
