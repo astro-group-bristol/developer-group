@@ -8,7 +8,6 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                           | Discussion Leader |
 | ---------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 31 May 2024  | [Command line tricks](https://github.com/astro-group-bristol/developer-group/issues/43)                         | @fjebaker         |
 | Fri 07 June 2024 | [Kanban (and other Project Management tools)](https://github.com/astro-group-bristol/developer-group/issues/30) | @HallJoseph       |
 
 ## Agenda
@@ -39,3 +38,4 @@ Each week the agenda is as follows:
 | Fri 26 April 24 | [An introduction to Julia](https://github.com/astro-group-bristol/developer-group/issues/26)                             | @fjebaker         |
 | Fri 03 May 24   | [SQL, ADQL, and TAP](https://github.com/astro-group-bristol/developer-group/issues/28)                                   | @mbtaylor         |
 | Fri 24 May 2024 | Housekeeping and planning                                                                                                | @fjebaker         |
+| Fri 31 May 2024 | [Command line tricks](https://github.com/astro-group-bristol/developer-group/issues/43)                                  | @fjebaker         |
