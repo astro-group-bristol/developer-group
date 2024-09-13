@@ -21,6 +21,7 @@ Each week the agenda is as follows:
 - AOB (5 mins)
 
 ## Members
+- Ailsa, PhD student working with Hannah
 - Fergus, PhD student working with Andy
 - Teresa, PhD student working with Sotiria
 - Rhys.
