@@ -24,6 +24,7 @@ Each week the agenda is as follows:
 
 - Fergus, PhD student working with Andy
 - Rhys.
+- Gloria, PhD student working with Andy
 
 ## Past meetups
 
