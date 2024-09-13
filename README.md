@@ -26,7 +26,6 @@ Each week the agenda is as follows:
 - Rhys.
 - Gloria, PhD student working with Andy
 - Darius, First year PhD working under Andy
-=======
 - Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
 
 ## Past meetups
