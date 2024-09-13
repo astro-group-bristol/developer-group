@@ -23,6 +23,7 @@ Each week the agenda is as follows:
 ## Members
 
 - Fergus, PhD student working with Andy
+- Phil, postdoc
 
 ## Past meetups
 
