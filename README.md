@@ -20,6 +20,10 @@ Each week the agenda is as follows:
 - Theme discussion (30 mins)
 - AOB (5 mins)
 
+## Members
+
+- Fergus, PhD student working with Andy
+
 ## Past meetups
 
 | Date             | Topic                                                                                                                    | Discussion Leader |
