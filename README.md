@@ -22,9 +22,12 @@ Each week the agenda is as follows:
 
 ## Members
 - Fergus, PhD student working with Andy
+- Teresa, PhD student working with Sotiria
 - Rhys.
 - Gloria, PhD student working with Andy
 - Darius, First year PhD working under Andy
+=======
+- Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
 
 ## Past meetups
 
