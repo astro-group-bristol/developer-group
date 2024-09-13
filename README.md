@@ -23,6 +23,7 @@ Each week the agenda is as follows:
 ## Members
 
 - Fergus, PhD student working with Andy
+- [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
 
 ## Past meetups
 
