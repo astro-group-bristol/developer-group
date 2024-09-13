@@ -23,7 +23,7 @@ Each week the agenda is as follows:
 ## Members
 
 - Fergus, PhD student working with Andy
-- Phil, postdoc
+- Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](philipjcarter.com)
 
 ## Past meetups
 
