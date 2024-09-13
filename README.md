@@ -19,7 +19,8 @@ Each week the agenda is as follows:
 - Discuss issues from the last week (10 mins)
 - Theme discussion (30 mins)
 - AOB (5 mins)
-
+## Members
+Darius, First year PhD working under Andy
 ## Past meetups
 
 | Date             | Topic                                                                                                                    | Discussion Leader |
