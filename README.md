@@ -23,6 +23,7 @@ Each week the agenda is as follows:
 ## Members
 
 - Fergus, PhD student working with Andy
+- Teresa, PhD student working with Sotiria
 - Rhys.
 - Gloria, PhD student working with Andy
 
