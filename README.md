@@ -20,17 +20,18 @@ Each week the agenda is as follows:
 - AOB (5 mins)
 
 ## Members
+
 - Ailsa, PhD student working with Hannah
-- Fergus, PhD student working with Andy
-- Teresa, PhD student working with Sotiria
-- Rhys.
-- Gloria, PhD student working with Andy
 - Darius, First year PhD working under Andy
-- Mark, postdoc doing software
-- Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
+- Fergus, PhD student working with Andy
+- Gloria, PhD student working with Andy
 - [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
-- Misia, 1st year PhD student
 - Lucy, PhD student
+- Mark, postdoc doing software
+- Misia, 1st year PhD student
+- Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
+- Rhys, PhD student working with Sotiria
+- Teresa, PhD student working with Sotiria
 
 
 ## Past meetups
