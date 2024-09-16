@@ -8,7 +8,6 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date          | Topic                                                                                  | Discussion Leader |
 | ------------- | -------------------------------------------------------------------------------------- | ----------------- |
-| Fri 13 Sep 24 | Welcome back and housekeeping                                                          | -                 |
 | Fri 20 Sep 24 | [Parallelising Code](https://github.com/astro-group-bristol/developer-group/issues/17) | @RhysAlfShaw      |
 
 ## Agenda
@@ -56,3 +55,4 @@ Each week the agenda is as follows:
 | Fri 31 May 2024  | [Command line tricks](https://github.com/astro-group-bristol/developer-group/issues/43)                                  | @fjebaker         |
 | Fri 07 June 2024 | [Kanban (and other Project Management tools)](https://github.com/astro-group-bristol/developer-group/issues/30)          | @HallJoseph       |
 | Fri 16 Aug 24    | [Serve and feed me RSS](https://github.com/astro-group-bristol/developer-group/issues/15)                                | @fjebaker         |
+| Fri 13 Sep 24    | Welcome back and housekeeping                                                                                            | -                 |
