@@ -31,6 +31,7 @@ Each week the agenda is as follows:
 - Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
 - [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
 - Misia, 1st year PhD student
+- Lucy, PhD student
 
 
 ## Past meetups
