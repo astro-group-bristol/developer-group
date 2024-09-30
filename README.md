@@ -6,9 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date          | Topic                                                                                | Discussion Leader |
-| ------------- | ------------------------------------------------------------------------------------ | ----------------- |
-| Fri 27 Sep 24 | [Paper management](https://github.com/astro-group-bristol/developer-group/issues/62) | @fjebaker         |
+| Date          | Topic                                                                                                         | Discussion Leader |
+| ------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 4 Oct 24  | [Obsidian / Note taking solutions](https://github.com/astro-group-bristol/developer-group/issues/44)          | @HallJoseph       |
+| Fri 11 Oct 24 | [Vuez / Making publication quality figures](https://github.com/astro-group-bristol/developer-group/issues/45) | @phajy            |
 
 ## Agenda
 
@@ -57,3 +58,4 @@ Each week the agenda is as follows:
 | Fri 16 Aug 24    | [Serve and feed me RSS](https://github.com/astro-group-bristol/developer-group/issues/15)                                | @fjebaker         |
 | Fri 13 Sep 24    | Welcome back and housekeeping                                                                                            | -                 |
 | Fri 20 Sep 24    | [Parallelising Code](https://github.com/astro-group-bristol/developer-group/issues/17)                                   | @RhysAlfShaw      |
+| Fri 27 Sep 24    | [Paper management](https://github.com/astro-group-bristol/developer-group/issues/62)                                     | @fjebaker         |
