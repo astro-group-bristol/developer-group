@@ -32,6 +32,7 @@ Each week the agenda is as follows:
 - Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
 - Rhys, PhD student working with Sotiria
 - Teresa, PhD student working with Sotiria
+- Tom, PhD student working with Belinda and Andy
 
 ## Past meetups
 
