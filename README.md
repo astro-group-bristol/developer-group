@@ -10,8 +10,10 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | ------------- | --------------------------------------------------------------------------------------------------- | -------------------------------- |
 | Fri 08 Nov 24 | [XMM Data Reduction](https://github.com/astro-group-bristol/developer-group/issues/69)              | @DariusMichienzi / @TomHigginson |
 | Fri 15 Nov 24 | No Session                                                                                          | -                                |
-| Fri 22 Nov 24 | [An introduction to unit testing](https://github.com/astro-group-bristol/developer-group/issues/34) | @hstewart93                      |
+| Fri 22 Nov 24 | Update on the group machines                                                                        | Rhys Morris                      |
 | Fri 29 Nov 24 | [XGA and DAXA](https://github.com/astro-group-bristol/developer-group/issues/70)                    | @HallJoseph                      |
+| Fri 06 Dec 24 | TBA                                                                                                 | TBA                              |
+| Fri 13 Dec 24 | [An introduction to unit testing](https://github.com/astro-group-bristol/developer-group/issues/34) | @hstewart93                      |
 
 ## Agenda
 
