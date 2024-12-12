@@ -10,6 +10,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | ------------- | --------------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 13 Dec 24 | [An introduction to unit testing](https://github.com/astro-group-bristol/developer-group/issues/34) | @hstewart93       |
 
+After the 13th of December 2024 we are **on Christmas break** 🎅! We will resume likely on the 11th of January!
+
 ## Agenda
 
 Each week the agenda is as follows:
