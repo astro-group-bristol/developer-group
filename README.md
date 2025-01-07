@@ -8,8 +8,9 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date          | Topic                                                                                                           | Discussion Leader |
 | ------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 10 Jan 25 | [The New Year and Advent of Code post-mortem](https://github.com/astro-group-bristol/developer-group/issues/82) | @fjebaker         |
+| Fri 10 Jan 25 | No Developer Group: UoB Research Day                                                                            | -                 |
 | Fri 17 Jan 25 | [TOPCAT/STILTS Masterclass: crossmatching](https://github.com/astro-group-bristol/developer-group/issues/61)    | @mbtaylor         |
+| Fri 24 Jan 25 | [The New Year and Advent of Code post-mortem](https://github.com/astro-group-bristol/developer-group/issues/82) | @fjebaker         |
 
 After the 13th of December 2024 we are **on Christmas break** 🎅!
 
