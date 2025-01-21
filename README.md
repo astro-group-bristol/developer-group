@@ -8,11 +8,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date          | Topic                                                                                                           | Discussion Leader |
 | ------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 10 Jan 25 | No Developer Group: UoB Research Day                                                                            | -                 |
-| Fri 17 Jan 25 | [TOPCAT/STILTS Masterclass: crossmatching](https://github.com/astro-group-bristol/developer-group/issues/61)    | @mbtaylor         |
-| Fri 24 Jan 25 | [The New Year and Advent of Code post-mortem](https://github.com/astro-group-bristol/developer-group/issues/82) | @fjebaker         |
-
-After the 13th of December 2024 we are **on Christmas break** 🎅!
+| Fri 24 Jan 25 | ['Movie' (Conference talk) Night](https://github.com/astro-group-bristol/developer-group/issues/36)             | -                 |
+| Fri 31 Jan 25 | [The New Year and Advent of Code post-mortem](https://github.com/astro-group-bristol/developer-group/issues/82) | @fjebaker         |
 
 ## Agenda
 
@@ -72,3 +69,4 @@ Each week the agenda is as follows:
 | Fri 29 Nov 24    | [XGA and DAXA](https://github.com/astro-group-bristol/developer-group/issues/70)                                          | @HallJoseph                      |
 | Fri 06 Dec 24    | [Computer memory architecture](https://github.com/astro-group-bristol/developer-group/issues/75)                          | @CaleBaguley                     |
 | Fri 13 Dec 24    | [An introduction to unit testing](https://github.com/astro-group-bristol/developer-group/issues/34)                       | @hstewart93                      |
+| Fri 17 Jan 25    | [TOPCAT/STILTS Masterclass: crossmatching](https://github.com/astro-group-bristol/developer-group/issues/61)              | @mbtaylor                        |
