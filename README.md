@@ -6,9 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date          | Topic                                                                                       | Discussion Leader |
-| ------------- | ------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 07 Feb 25 | [What's in your Toolbox?](https://github.com/astro-group-bristol/developer-group/issues/85) | Everyone          |
+| Date               | Topic                                                                                                      | Discussion Leader |
+| ------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 07 Feb 25      | [What's in your Toolbox?](https://github.com/astro-group-bristol/developer-group/issues/85)                | Everyone          |
+| Fri 14 Feb 25 (♥️) | [Setting up a home / self-hosted server](https://github.com/astro-group-bristol/developer-group/issues/72) | @RhysAlfShaw      |
 
 ## Agenda
 
