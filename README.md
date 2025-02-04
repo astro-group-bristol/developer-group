@@ -6,9 +6,9 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date          | Topic                                                                                                           | Discussion Leader |
-| ------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 31 Jan 25 | [The New Year and Advent of Code post-mortem](https://github.com/astro-group-bristol/developer-group/issues/82) | @fjebaker         |
+| Date          | Topic                                                                                       | Discussion Leader |
+| ------------- | ------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 07 Feb 25 | [What's in your Toolbox?](https://github.com/astro-group-bristol/developer-group/issues/85) | Everyone          |
 
 ## Agenda
 
@@ -70,3 +70,4 @@ Each week the agenda is as follows:
 | Fri 13 Dec 24    | [An introduction to unit testing](https://github.com/astro-group-bristol/developer-group/issues/34)                       | @hstewart93                      |
 | Fri 17 Jan 25    | [TOPCAT/STILTS Masterclass: crossmatching](https://github.com/astro-group-bristol/developer-group/issues/61)              | @mbtaylor                        |
 | Fri 24 Jan 25    | ['Movie' (Conference talk) Night](https://github.com/astro-group-bristol/developer-group/issues/36)                       | @TomHigginson                    |
+| Fri 31 Jan 25    | [The New Year and Advent of Code post-mortem](https://github.com/astro-group-bristol/developer-group/issues/82)           | @fjebaker                        |
