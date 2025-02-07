@@ -24,19 +24,26 @@ Format your entry in the following way:
   Useful flags include `-y` for the whole year, and `-3` for the surrounding months.
 
 
+- **Crontab**: A tool for code Scheduling in Unix Systems.
+  Find more [here](crontab.md)
 
 
+- **screen**: A terminal multiplexer that allows opening of multiple terminal sessions which persist after disconnecting from a sever. Useful for long running tasks.\
+  Some basic commands to start with:\
+`screen -S name` starts a new screen session with the given name\
+`screen -d` detaches from a screen while leaving started processes running\
+`screen -r name` reattaches to the screen of the given name\
+`screen -ls` shows all active screens and status (attached of detached)\
+Type `exit` while in a screen to close and terminate the screen. Or, `screen -XS name quit` to close a specific screen
 
+  
+- **Obsidian**: Talked about at length by [Joe](https://github.com/HallJoseph), but it's a neat note taking and organsing piece of software. Link: https://obsidian.md/. Free to use, but has a premium plan allowing cloud back ups. My get around for that is to keep Obsidian in the OneDrive section on my Mac which uses the 2 TB of university provided cloud storage.
 
-
-
-
-
-
-
+I have a nice little callable script that will convert position between decimal degrees and sexagesimal or vice versa. This can easily be used within another script if needed and is a quick way to get around the annoying change of labelling.
 
 
 
 - **nicer notebook plots**
   
   Adding ``%config InlineBackend.figure_format = 'retina'`` to your jupyter notebook will display (matplotlib) figures in higher resolution.
+
