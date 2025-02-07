@@ -22,3 +22,11 @@ Format your entry in the following way:
    24 25 26 27 28
   ```
   Useful flags include `-y` for the whole year, and `-3` for the surrounding months.
+
+- **screen**: A terminal multiplexer that allows opening of multiple terminal sessions which persist after disconnecting from a sever. Useful for long running tasks.\
+  Some basic commands to start with:\
+`screen -S name` starts a new screen session with the given name\
+`screen -d` detaches from a screen while leaving started processes running\
+`screen -r name` reattaches to the screen of the given name\
+`screen -ls` shows all active screens and status (attached of detached)\
+Type `exit` while in a screen to close and terminate the screen. Or, `screen -XS name quit` to close a specific screen
