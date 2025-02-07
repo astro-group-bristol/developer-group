@@ -37,3 +37,5 @@ Type `exit` while in a screen to close and terminate the screen. Or, `screen -XS
 
   
 - **Obsidian**: Talked about at length by [Joe](https://github.com/HallJoseph), but it's a neat note taking and organsing piece of software. Link: https://obsidian.md/. Free to use, but has a premium plan allowing cloud back ups. My get around for that is to keep Obsidian in the OneDrive section on my Mac which uses the 2 TB of university provided cloud storage.
+
+I have a nice little callable script that will convert position between decimal degrees and sexagesimal or vice versa. This can easily be used within another script if needed and is a quick way to get around the annoying change of labelling.
