@@ -22,3 +22,5 @@ Format your entry in the following way:
    24 25 26 27 28
   ```
   Useful flags include `-y` for the whole year, and `-3` for the surrounding months.
+
+I have a nice little callable script that will convert position between decimal degrees and sexagesimal or vice versa. This can easily be used within another script if needed and is a quick way to get around the annoying change of labelling.
