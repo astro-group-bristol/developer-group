@@ -32,6 +32,5 @@ Format your entry in the following way:
 `screen -ls` shows all active screens and status (attached of detached)\
 Type `exit` while in a screen to close and terminate the screen. Or, `screen -XS name quit` to close a specific screen
 
-=======
 - **Obsidian**: Talked about at length by [Joe](https://github.com/HallJoseph), but it's a neat note taking and organsing piece of software. Link: https://obsidian.md/. Free to use, but has a premium plan allowing cloud back ups. My get around for that is to keep Obsidian in the OneDrive section on my Mac which uses the 2 TB of university provided cloud storage.
 
