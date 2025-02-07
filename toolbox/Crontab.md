@@ -32,7 +32,6 @@ Crontab (cron table) is a time-based job scheduler in Unix-like operating system
 The crontab file consists of lines with six fields separated by spaces:
 ```bash
 * * * * * command
-```
 - - - - -
 | | | | |
 | | | | ----- Day of week (0 - 7) (Sunday=0 or 7)
@@ -40,6 +39,7 @@ The crontab file consists of lines with six fields separated by spaces:
 | | --------- Day of month (1 - 31)
 | ----------- Hour (0 - 23)
 ------------- Minute (0 - 59)
+```
 
 Each field can contain:
 
