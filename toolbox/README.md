@@ -23,6 +23,11 @@ Format your entry in the following way:
   ```
   Useful flags include `-y` for the whole year, and `-3` for the surrounding months.
 
+- **WebSpec**: Lets you run a limited version of the `fakeit` XSPEC command
+  directly in the browsers.
+
+   Try it out [here](https://heasarc.gsfc.nasa.gov/webspec/webspec.html)
+
 - **Crontab**: A tool for code Scheduling in Unix Systems.
   Find more [here](crontab.md)
 
