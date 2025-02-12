@@ -6,10 +6,12 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date               | Topic                                                                                                      | Discussion Leader |
-| ------------------ | ---------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 07 Feb 25      | [What's in your Toolbox?](https://github.com/astro-group-bristol/developer-group/issues/85)                | Everyone          |
-| Fri 14 Feb 25 (♥️) | [Setting up a home / self-hosted server](https://github.com/astro-group-bristol/developer-group/issues/72) | @RhysAlfShaw      |
+| Date               | Topic                                                                                                                       | Discussion Leader |
+| ------------------ | --------------------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 14 Feb 25 (♥️) | [Setting up a home / self-hosted server](https://github.com/astro-group-bristol/developer-group/issues/72)                  | @RhysAlfShaw      |
+| Fri 21 Feb 25      | [Typst (for presentations)](https://github.com/astro-group-bristol/developer-group/issues/88)                               | @fjebaker         |
+| Fri 28 Mar 25      | [(GNU) Image Manipulation (Program)](https://github.com/astro-group-bristol/developer-group/issues/95)                      | @HallJoseph       |
+| Fri 07 Mar 25      | [Manim: Python for scientific and educational animations](https://github.com/astro-group-bristol/developer-group/issues/74) | @DariusMichienzi  |
 
 ## Agenda
 
@@ -73,3 +75,4 @@ Each week the agenda is as follows:
 | Fri 17 Jan 25    | [TOPCAT/STILTS Masterclass: crossmatching](https://github.com/astro-group-bristol/developer-group/issues/61)              | @mbtaylor                        |
 | Fri 24 Jan 25    | ['Movie' (Conference talk) Night](https://github.com/astro-group-bristol/developer-group/issues/36)                       | @TomHigginson                    |
 | Fri 31 Jan 25    | [The New Year and Advent of Code post-mortem](https://github.com/astro-group-bristol/developer-group/issues/82)           | @fjebaker                        |
+| Fri 07 Feb 25    | [What's in your Toolbox?](https://github.com/astro-group-bristol/developer-group/issues/85)                               | -                                |
