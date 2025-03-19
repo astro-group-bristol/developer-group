@@ -8,7 +8,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date          | Topic                                                                     | Discussion Leader |
 | ------------- | ------------------------------------------------------------------------- | ----------------- |
-| Fri 14 Mar 25 | [XSPEC](https://github.com/astro-group-bristol/developer-group/issues/96) | @GloriaRAH        |
+| Fri 21 Mar 25 | Setting up Godot                                                          | @fjebaker         |
+| Fri 28 Mar 25 | [Slurm](https://github.com/astro-group-bristol/developer-group/issues/98) | @lucyastro        |
 
 ## Agenda
 
@@ -77,3 +78,4 @@ Each week the agenda is as follows:
 | Fri 21 Feb 25    | [Setting up a home / self-hosted server](https://github.com/astro-group-bristol/developer-group/issues/72)                  | @RhysAlfShaw                     |
 | Fri 28 Feb 25    | [(GNU) Image Manipulation (Program)](https://github.com/astro-group-bristol/developer-group/issues/95)                      | @HallJoseph                      |
 | Fri 07 Mar 25    | [Manim: Python for scientific and educational animations](https://github.com/astro-group-bristol/developer-group/issues/74) | @DariusMichienzi                 |
+| Fri 14 Mar 25    | [XSPEC](https://github.com/astro-group-bristol/developer-group/issues/96)                                                   | @GloriaRAH                       |
