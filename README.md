@@ -10,6 +10,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | ------------- | ------------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 28 Mar 25 | [SOCKS, proxies, VPNs, and Tor](https://github.com/astro-group-bristol/developer-group/issues/99) | @fjebaker         |
 | Fri 04 Apr 25 | [Slurm](https://github.com/astro-group-bristol/developer-group/issues/98)                         | @lucyastro        |
+| Fri 11 Apr 25 | [An introduction to Quarto](https://github.com/astro-group-bristol/developer-group/issues/40)     | @phajy            |
 
 ## Agenda
 
