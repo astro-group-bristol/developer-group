@@ -6,11 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date          | Topic                                                                                             | Discussion Leader |
-| ------------- | ------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 28 Mar 25 | [SOCKS, proxies, VPNs, and Tor](https://github.com/astro-group-bristol/developer-group/issues/99) | @fjebaker         |
-| Fri 04 Apr 25 | [Slurm](https://github.com/astro-group-bristol/developer-group/issues/98)                         | @lucyastro        |
-| Fri 11 Apr 25 | [An introduction to Quarto](https://github.com/astro-group-bristol/developer-group/issues/40)     | @phajy            |
+| Date          | Topic                                                                                         | Discussion Leader |
+| ------------- | --------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 11 Apr 25 | [Slurm](https://github.com/astro-group-bristol/developer-group/issues/98)                     | @lucyastro        |
+| TBC           | [An introduction to Quarto](https://github.com/astro-group-bristol/developer-group/issues/40) | @phajy            |
 
 ## Agenda
 
@@ -81,3 +80,4 @@ Each week the agenda is as follows:
 | Fri 07 Mar 25    | [Manim: Python for scientific and educational animations](https://github.com/astro-group-bristol/developer-group/issues/74) | @DariusMichienzi                 |
 | Fri 14 Mar 25    | [XSPEC](https://github.com/astro-group-bristol/developer-group/issues/96)                                                   | @GloriaRAH                       |
 | Fri 21 Mar 25    | Setting up Godot                                                                                                            | @fjebaker                        |
+| Fri 28 Mar 25    | [SOCKS, proxies, VPNs, and Tor](https://github.com/astro-group-bristol/developer-group/issues/99)                           | @fjebaker                        |
