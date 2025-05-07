@@ -6,10 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                                         | Discussion Leader |
-| --------------- | --------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 02 May 2025 | [Ins and Outs of FITS](https://github.com/astro-group-bristol/developer-group/issues/105)     | @mbtaylor         |
-| TBC             | [An introduction to Quarto](https://github.com/astro-group-bristol/developer-group/issues/40) | @phajy            |
+| Date            | Topic                                                                                                         | Discussion Leader |
+| --------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 09 May 2025 | [GPG, cryptography, and digital signatures](https://github.com/astro-group-bristol/developer-group/issues/97) | @fjebaker         |
+| TBC             | [An introduction to Quarto](https://github.com/astro-group-bristol/developer-group/issues/40)                 | @phajy            |
 
 ## Agenda
 
@@ -84,3 +84,4 @@ Each week the agenda is as follows:
 | Fri 11 Apr 25    | [Slurm](https://github.com/astro-group-bristol/developer-group/issues/98)                                                   | @lucyastro                       |
 | Thu 17 Apr 25    | [Web Scraping with Beautiful Soup](https://github.com/astro-group-bristol/developer-group/issues/102)                       | Rhys Morris                      |
 | Fri 25 Apr 25    | [MCMC with Python](https://github.com/astro-group-bristol/developer-group/issues/104)                                       | @cathal-maguire                  |
+| Fri 02 May 2025  | [Ins and Outs of FITS](https://github.com/astro-group-bristol/developer-group/issues/105)                                   | @mbtaylor                        |
