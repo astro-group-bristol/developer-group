@@ -6,9 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                         | Discussion Leader |
-| --------------- | ----------------------------------------------------------------------------- | ----------------- |
-| Fri 23 May 2025 | [AI Ethics](https://github.com/astro-group-bristol/developer-group/issues/38) | @hstewart93       |
+| Date            | Topic                                                                                                      | Discussion Leader |
+| --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 23 May 2025 | [AI Ethics](https://github.com/astro-group-bristol/developer-group/issues/38)                              | @hstewart93       |
+| Fri 30 May 2025 | [Getting Started With Open Source LLMs](https://github.com/astro-group-bristol/developer-group/issues/106) | @RhysAlfShaw      |
 
 ## Agenda
 
