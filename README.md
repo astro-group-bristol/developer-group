@@ -9,6 +9,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | Date            | Topic                                                                                                      | Discussion Leader |
 | --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 30 May 2025 | [Getting Started With Open Source LLMs](https://github.com/astro-group-bristol/developer-group/issues/106) | @RhysAlfShaw      |
+| Fri 06 Jun 2025 | TBA (50th documented meetup!)                                                                              | -                 |
 
 ## Agenda
 
