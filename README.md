@@ -8,7 +8,6 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date            | Topic                                                                                                      | Discussion Leader |
 | --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 23 May 2025 | [AI Ethics](https://github.com/astro-group-bristol/developer-group/issues/38)                              | @hstewart93       |
 | Fri 30 May 2025 | [Getting Started With Open Source LLMs](https://github.com/astro-group-bristol/developer-group/issues/106) | @RhysAlfShaw      |
 
 ## Agenda
@@ -87,3 +86,4 @@ Each week the agenda is as follows:
 | Fri 02 May 2025 | [Ins and Outs of FITS](https://github.com/astro-group-bristol/developer-group/issues/105)                                   | @mbtaylor                        |
 | Fri 09 May 2025 | [GPG, cryptography, and digital signatures](https://github.com/astro-group-bristol/developer-group/issues/97)               | @fjebaker                        |
 | Fri 16 May 2025 | [An introduction to Quarto](https://github.com/astro-group-bristol/developer-group/issues/40)                               | @phajy                           |
+| Fri 23 May 2025 | [AI Ethics](https://github.com/astro-group-bristol/developer-group/issues/38)                                               | @hstewart93                      |
