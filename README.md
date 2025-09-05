@@ -8,7 +8,9 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date            | Topic                                                                                                      | Discussion Leader |
 | --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 20 June 2025 | 50th Recorded Session Razzle-dazzle Pub-Style Quiz | @RhysAlfShaw & @HallJoseph   |@RhysAlfShaw & @HallJoseph   |                                                                   | -                 |
+| Fri 19 September 2025 | Welcome Back to dev group 2025/2026 | @RhysAlfShaw & @HallJoseph   |@RhysAlfShaw & @HallJoseph   
+| Fri 26 September 2025 | Lessons learned writing a PhD thesis (from a tooling perspective)  |@fjebaker
+| Fri 3 October 2025    | Introduction to Git 2025                                           | ??
 
 ## Agenda
 
@@ -88,3 +90,4 @@ Each week the agenda is as follows:
 | Fri 16 May 2025 | [An introduction to Quarto](https://github.com/astro-group-bristol/developer-group/issues/40)                               | @phajy                           |
 | Fri 23 May 2025 | [AI Ethics](https://github.com/astro-group-bristol/developer-group/issues/38)                                               | @hstewart93                      |
 | Fri 20 June 2025 | [Getting Started With Open Source LLMs](https://github.com/astro-group-bristol/developer-group/issues/106) | @RhysAlfShaw
+| Fri 20 June 2025 | 50th Recorded Session Razzle-dazzle Pub-Style Quiz | @RhysAlfShaw & @HallJoseph 
