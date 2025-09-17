@@ -6,11 +6,11 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                                                      | Discussion Leader |
-| --------------- | ---------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 19 September 2025 | Welcome Back to dev group 2025/2026 | @RhysAlfShaw & @HallJoseph   |@RhysAlfShaw & @HallJoseph   
-| Fri 26 September 2025 | Lessons learned writing a PhD thesis (from a tooling perspective)  |@fjebaker
-| Fri 3 October 2025    | Introduction to Git 2025                                           | ??
+| Date                  | Topic                                                                                                                                  | Discussion Leader          |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| Fri 19 September 2025 | Welcome Back to dev group 2025/2026                                                                                                    | @RhysAlfShaw & @HallJoseph |
+| Fri 26 September 2025 | [Lessons learned writing a PhD thesis (from a tooling perspective)](https://github.com/astro-group-bristol/developer-group/issues/110) | @fjebaker                  |
+| Fri 3 October 2025    | [Introduction to Git 2025](https://github.com/astro-group-bristol/developer-group/issues/112)                                          | ??                         |
 
 ## Agenda
 
