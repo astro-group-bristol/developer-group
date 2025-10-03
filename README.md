@@ -33,7 +33,7 @@ Each week the agenda is as follows:
 - [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
 - Lucy, PhD student
 - Mark, postdoc doing software [website](https://www.star.bristol.ac.uk/mbt/)
-- Misia, 1st year PhD student
+- Misia, 2nd year PhD student working with Natasha
 - Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
 - Rhys S, PhD student working with Sotiria
 - Teresa, PhD student working with Sotiria
