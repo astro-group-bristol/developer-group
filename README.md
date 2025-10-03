@@ -26,6 +26,7 @@ Each week the agenda is as follows:
 ## Members
 
 - Ailsa, PhD student working with Hannah
+- Cathal, Postdoc working with Hannah
 - Darius, First year PhD working under Andy
 - Fergus, PhD student working with Andy
 - Gloria, PhD student working with Andy
