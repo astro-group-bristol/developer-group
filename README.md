@@ -38,6 +38,7 @@ Each week the agenda is as follows:
 - Teresa, PhD student working with Sotiria
 - Tom, PhD student working with Belinda and Andy
 - [Joe](https://github.com/HallJoseph), PhD Student working on Galaxy Clusters with eROSITA
+- Cai, postdoc working on Galaxy Clusters with eROSITA
 
 ## Past meetups
 
