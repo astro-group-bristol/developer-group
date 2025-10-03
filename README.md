@@ -33,7 +33,7 @@ Each week the agenda is as follows:
 - Mark, postdoc doing software [website](https://www.star.bristol.ac.uk/mbt/)
 - Misia, 2nd year PhD student working with Natasha
 - Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
-- Rhys S, PhD student working with Sotiria
+- Rhys, PhD student working with Sotiria
 - Teresa, PhD student working with Sotiria
 - Tom, PhD student working with Belinda and Andy
 - Ivano, postdoc working with Sotiria
