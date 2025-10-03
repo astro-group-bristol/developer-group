@@ -26,19 +26,23 @@ Each week the agenda is as follows:
 ## Members
 
 - Ailsa, PhD student working with Hannah
+- Cathal, Postdoc working with Hannah
 - Darius, First year PhD working under Andy
 - Fergus, PhD student working with Andy
 - Gloria, PhD student working with Andy
 - [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
 - Lucy, PhD student
-- Mark, postdoc doing software
-- Misia, 1st year PhD student
+- Mark, postdoc doing software [website](https://www.star.bristol.ac.uk/mbt/)
+- Misia, 2nd year PhD student working with Natasha
 - Phil, postdoc, [@PhilJCarter](https://github.com/PhilJCarter), [website](https://philipjcarter.com)
 - Rhys S, PhD student working with Sotiria
 - Teresa, PhD student working with Sotiria
 - Tom, PhD student working with Belinda and Andy
+- Ivano, postdoc working with Sotiria
 - [Joe](https://github.com/HallJoseph), PhD Student working on Galaxy Clusters with eROSITA
 - Thomas, PhD
+- Cai, postdoc working on Galaxy Clusters with eROSITA
+- Ileana, PhD student working on Galaxy Clusters with Ben
 
 ## Past meetups
 
