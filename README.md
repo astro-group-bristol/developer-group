@@ -37,7 +37,7 @@ Each week the agenda is as follows:
 - Rhys, PhD student working with Sotiria
 - Teresa, PhD student working with Sotiria
 - Tom, PhD student working with Belinda and Andy
-- Ivano postdoc working with Sotiria
+- Ivano, postdoc working with Sotiria
 - [Joe](https://github.com/HallJoseph), PhD Student working on Galaxy Clusters with eROSITA
 
 ## Past meetups
