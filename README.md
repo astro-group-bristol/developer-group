@@ -41,6 +41,7 @@ Each week the agenda is as follows:
 - Ivano, postdoc working with Sotiria
 - [Joe](https://github.com/HallJoseph), PhD Student working on Galaxy Clusters with eROSITA
 - Cai, postdoc working on Galaxy Clusters with eROSITA
+- Ileana, PhD student working on Galaxy Clusters with Ben
 
 ## Past meetups
 
