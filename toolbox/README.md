@@ -27,7 +27,7 @@ Format your entry in the following way:
   directly in the browsers.
 
    Try it out [here](https://heasarc.gsfc.nasa.gov/webspec/webspec.html)
-
+   
 - **Crontab**: A tool for code Scheduling in Unix Systems.
   Find more [here](crontab.md)
 
@@ -46,6 +46,10 @@ Type `exit` while in a screen to close and terminate the screen. Or, `screen -XS
 I have a nice little callable script that will convert position between decimal degrees and sexagesimal or vice versa. This can easily be used within another script if needed and is a quick way to get around the annoying change of labelling.
 
 
+- **nicer notebook plots**
+  
+  Adding ``%config InlineBackend.figure_format = 'retina'`` to your jupyter notebook will display (matplotlib) figures in higher resolution.
+  
 - **git difftool**: The git `difftool` command lets you see diffs between commits graphically.
 By default it looks for some likely looking graphical diff tools on
 your system, but you can configure exactly what it does.
@@ -75,4 +79,3 @@ Set it up by editing the `~/.gitconfig` file
   *.jpg diff=image
   *.jpeg diff=image
   ```
-
