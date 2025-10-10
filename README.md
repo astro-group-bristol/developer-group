@@ -22,12 +22,11 @@ Each week the agenda is as follows:
 - Theme discussion (30 mins)
 - AOB (5 mins)
 
-## Members
+## Local Members
 
 - Ailsa, PhD student working with Hannah
 - Cathal, Postdoc working with Hannah
 - Darius, First year PhD working under Andy
-- Fergus, PhD student working with Andy
 - Gloria, PhD student working with Andy
 - [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
 - Lucy, PhD student
@@ -44,6 +43,10 @@ Each week the agenda is as follows:
 - Cai, postdoc working on Galaxy Clusters with eROSITA
 - Ileana, PhD student working on Galaxy Clusters with Ben
 
+## Non-Local Members
+
+- Fergus, Postdoc at Newcastle University
+- Hattie, Fellow at the University of Oxford
 
 ## Past meetups
 
