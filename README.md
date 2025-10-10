@@ -39,9 +39,11 @@ Each week the agenda is as follows:
 - Tom, PhD student working with Belinda and Andy
 - Ivano, postdoc working with Sotiria
 - [Joe](https://github.com/HallJoseph), PhD Student working on Galaxy Clusters with eROSITA
+- [Rhys M](https://github.com/rhysaph), Astro computing manager
 - Thomas, PhD
 - Cai, postdoc working on Galaxy Clusters with eROSITA
 - Ileana, PhD student working on Galaxy Clusters with Ben
+
 
 ## Past meetups
 
