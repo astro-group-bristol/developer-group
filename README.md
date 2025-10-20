@@ -6,11 +6,11 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date                | Topic                                                                                                         | Discussion Leader |
-| ------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 17 October 2025 | [AstronomicAL](https://github.com/astro-group-bristol/developer-group/issues/116)                             | @Ivano            |
-| Fri 24 October 2025 | [Still Shipping your computer with Docker](https://github.com/astro-group-bristol/developer-group/issues/117) | @RhysAlfShaw      |
-| Fri 31 October 2025 | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114)              | @hstewart93       |
+| Date                  | Topic                                                                                                         | Discussion Leader |
+| --------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 24 October 2025   | [Still Shipping your computer with Docker](https://github.com/astro-group-bristol/developer-group/issues/117) | @RhysAlfShaw      |
+| Fri 31 October 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114)              | @hstewart93       |
+| Fri 7th November 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129)                      | @mbtaylor         |
 
 ## Agenda
 
@@ -105,3 +105,4 @@ Each week the agenda is as follows:
 | Fri 26 September 2025 | [Lessons learned writing a PhD thesis (from a tooling perspective)](https://github.com/astro-group-bristol/developer-group/issues/110) | @fjebaker                        |
 | Fri 3 October 2025    | [Introduction to Git 2025](https://github.com/astro-group-bristol/developer-group/issues/112)                                          | @RhysAlfShaw                     |
 | Fri 10 October 2025   | [Tools of the Trade](https://github.com/astro-group-bristol/developer-group/issues/113)                                                | @HallJoseph                      |
+| Fri 17 October 2025   | [Pannels ft. AstronomicAL](https://github.com/astro-group-bristol/developer-group/issues/116)                                                      | @Ivano                           |
