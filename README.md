@@ -9,7 +9,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | Date                   | Topic                                                                                                         | Discussion Leader |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 24 October 2025    | [Still Shipping your computer with Docker](https://github.com/astro-group-bristol/developer-group/issues/117) | @RhysAlfShaw      |
-| Fri 31 October 2025    | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114)              | @hstewart93       |
+| ....                   | ....                                                                                                          | ....              |
+| Fri 12 November 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114)              | @hstewart93       |
 | ....                   | ....                                                                                                          | ....              |
 | Fri 12th December 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129)                      | @mbtaylor         |
 
