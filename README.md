@@ -10,7 +10,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | ---------------------- | ------------------------------------------------------------------------------------------------ | ----------------- |
 | Fri 31 October 2025    | [A (re)introduction to Godot](https://github.com/astro-group-bristol/developer-group)            | @HallJoseph       |
 | Fri 7 November 2025    | [Terminal Tips and Tricks](https://github.com/astro-group-bristol/developer-group/issues/126)    | @RhysAlfShaw      |
-| Fri 12 November 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114) | @hstewart93       |
+| Fri 14 November 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114) | @hstewart93       |
 | ....                   | ....                                                                                             | ....              |
 | Fri 12th December 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129)         | @mbtaylor         |
 
