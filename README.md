@@ -43,6 +43,7 @@ Each week the agenda is as follows:
 - Thomas, PhD
 - Cai, postdoc working on Galaxy Clusters with eROSITA
 - Ileana, PhD student working on Galaxy Clusters with Ben
+- [Alex](https://github.com/CorboPy), PhD student working with Denis
 
 ## Non-Local Members
 
