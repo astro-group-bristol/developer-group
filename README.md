@@ -11,7 +11,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | Fri 14 November 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114) | @hstewart93       |
 | ....                   | ....                                                                                             | ....              |
 | Fri 28 November 2025   | [Advent of Code 2025](https://github.com/astro-group-bristol/developer-group/issues/131)         | @DariusMichienzi  |
-| ....                   | ....                                                                                             | ....              |
+| Fri 5th December 2025  | School of Physics Review - Session Cancelled                                                     | N/A               |
 | Fri 12th December 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129)         | @mbtaylor         |
 
 ## Agenda
