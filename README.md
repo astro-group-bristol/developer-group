@@ -8,7 +8,6 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date              | Topic                                                                                            | Discussion Leader |
 | ----------------- | ------------------------------------------------------------------------------------------------ | ----------------- |
-| Fri 14 Nov 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114) | @hstewart93       |
 | Fri 21st Nov 2025 | [Spack](https://github.com/astro-group-bristol/developer-group/issues/132)                       | @ThomasBebb       |
 | Fri 28 Nov 2025   | [Advent of Code 2025](https://github.com/astro-group-bristol/developer-group/issues/131)         | @DariusMichienzi  |
 | Fri 5th Dec 2025  | School of Physics Review - Session Cancelled                                                     | N/A               |
@@ -112,3 +111,4 @@ Each week the agenda is as follows:
 | Fri 24 Oct 2025  | [Still Shipping your computer with Docker](https://github.com/astro-group-bristol/developer-group/issues/117)                          | @RhysAlfShaw                     |
 | Fri 31 Oct 2025  | [A (re)introduction to Godot](https://github.com/astro-group-bristol/developer-group)                                                  | @HallJoseph                      |
 | Fri 7 Nov 2025   | [Terminal Tips and Tricks](https://github.com/astro-group-bristol/developer-group/issues/126)                                          | @RhysAlfShaw                     |
+| Fri 14 Nov 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114) | @hstewart93       |
