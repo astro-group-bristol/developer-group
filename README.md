@@ -8,7 +8,6 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date              | Topic                                                                                    | Discussion Leader |
 | ----------------- | ---------------------------------------------------------------------------------------- | ----------------- |
-| Fri 5th Dec 2025  | School of Physics Review - Session Cancelled                                             | N/A               |
 | Fri 12th Dec 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129) | @mbtaylor         |
 
 ## Agenda
