@@ -8,7 +8,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date              | Topic                                                                                    | Discussion Leader |
 | ----------------- | ---------------------------------------------------------------------------------------- | ----------------- |
-| Fri 12th Dec 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129) | @mbtaylor         |
+| Fri 23rd Jan 2026 | TBC                                                                                      | TBC               |
+| Fri 30th Jan 2026 | AoC Review                                                                               | @DariusMichienzi  |
 
 ## Agenda
 
@@ -111,3 +112,4 @@ Each week the agenda is as follows:
 | Fri 14 Nov 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114)                                       | @hstewart93                      |
 | Fri 21st Nov 2025 | [Spack](https://github.com/astro-group-bristol/developer-group/issues/132)                                                             | @ThomasBebb                      |
 | Fri 28 Nov 2025   | [Advent of Code 2025](https://github.com/astro-group-bristol/developer-group/issues/131)                                               | @DariusMichienzi                 |
+| Fri 12th Dec 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129)                                               | @mbtaylor                        |
