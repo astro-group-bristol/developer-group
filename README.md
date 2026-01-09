@@ -23,7 +23,7 @@ Each week the agenda is as follows:
 
 - Ailsa, PhD student working with Hannah
 - Cathal, Postdoc working with Hannah
-- Darius, First year PhD working under Andy
+- Darius, PhD student working with Andy
 - Gloria, PhD student working with Andy
 - [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
 - Lucy, PhD student
