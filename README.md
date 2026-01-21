@@ -6,10 +6,10 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date              | Topic                                                                                    | Discussion Leader |
-| ----------------- | ---------------------------------------------------------------------------------------- | ----------------- |
-| Fri 23rd Jan 2026 | TBC                                                                                      | TBC               |
-| Fri 30th Jan 2026 | AoC Review                                                                               | @DariusMichienzi  |
+| Date              | Topic      | Discussion Leader |
+| ----------------- | ---------- | ----------------- |
+| Fri 23rd Jan 2026 | OpenCV     | @misia-mm         |
+| Fri 30th Jan 2026 | AoC Review | @DariusMichienzi  |
 
 ## Agenda
 
