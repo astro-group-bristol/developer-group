@@ -8,7 +8,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date              | Topic      | Discussion Leader |
 | ----------------- | ---------- | ----------------- |
-| Fri 30th Jan 2026 | AoC Review | @DariusMichienzi  |
+| Fri 6th Feb 2026  | AoC Review | @DariusMichienzi  |
 
 ## Agenda
 
