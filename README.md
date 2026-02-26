@@ -6,9 +6,9 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date              | Topic                   | Discussion Leader |
-| ----------------- | ----------------------- | ----------------- |
-| Fri 20th Feb 2026 | What's in your Toolbox? |                   |
+| Date        | Topic                                                                                                       | Discussion Leader |
+| ----------- | ----------------------------------------------------------------------------------------------------------- | ----------------- |
+| 27 Feb 2026 | [NVIDIA CUDA fundamentals course Review](https://github.com/astro-group-bristol/developer-group/issues/135) | @RhysAlfShaw      |
 
 ## Agenda
 
@@ -115,3 +115,4 @@ Each week the agenda is as follows:
 | Fri 23rd Jan 2026 | OpenCV                                                                                                                                 | @misia-mm                        |
 | Fri 30th Jan 2026 | AoC Review                                                                                                                             | @DariusMichienzi                 |
 | Fri 13th Feb 2026 | Wikidata & SPARQL                                                                                                                      | @fjebaker                        |
+| Fri 20th Feb 2026 | What's in your Toolbox?                                                                                                                |                                  |
