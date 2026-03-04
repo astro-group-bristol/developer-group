@@ -8,7 +8,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date            | Topic                                                                                        | Discussion Leader |
 | --------------- | -------------------------------------------------------------------------------------------- | ----------------- |
-| 13th March 2026 | [https://github.com/astro-group-bristol/developer-group/issues/83](Mission Led Developement) | @HallJoseph       |
+| 13th March 2026 | [Mission Led Development ](https://github.com/astro-group-bristol/developer-group/issues/83) | @HallJoseph       |
 
 ## Agenda
 
