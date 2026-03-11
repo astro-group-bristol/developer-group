@@ -8,9 +8,9 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date            | Topic                                                                                                         | Discussion Leader |
 | --------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 13th Match 2026 | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                            | Rhys Morris       |
-| 20th Match 2026 | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)           | @CorboPy          |
-| 27th Match 2026 | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140) | @ThomasBebb       |
+| 13th March 2026 | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                            | Rhys Morris       |
+| 20th March 2026 | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)           | @CorboPy          |
+| 27th March 2026 | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140) | @ThomasBebb       |
 | 3rd April 2026  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
 
 ## Agenda
