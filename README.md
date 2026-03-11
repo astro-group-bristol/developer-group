@@ -6,9 +6,12 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                                        | Discussion Leader |
-| --------------- | -------------------------------------------------------------------------------------------- | ----------------- |
-| 13th March 2026 | [Mission Led Development ](https://github.com/astro-group-bristol/developer-group/issues/83) | @HallJoseph       |
+| Date            | Topic                                                                                                | Discussion Leader |
+| --------------- | ---------------------------------------------------------------------------------------------------- | ----------------- |
+| 13th Match 2026 | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issue/23)                    | Rhys Morris       |
+| 20th Match 2026 | tbc                                                                                                  |                   |
+| 27th Match 2026 | tbc                                                                                                  |                   |
+| 3rd April 2026  | [Cloudy Spectral Sysnthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139) | Teresa Matamoro   |
 
 ## Agenda
 
