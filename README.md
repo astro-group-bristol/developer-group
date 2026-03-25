@@ -6,12 +6,11 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date            | Topic                                                                                                         | Discussion Leader |
-| --------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 13th March 2026 | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                            | Rhys Morris       |
-| 20th March 2026 | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)           | @CorboPy          |
-| 27th March 2026 | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140) | @ThomasBebb       |
-| 3rd April 2026  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
+| Date | Topic                                                                                                         | Discussion Leader |
+| ---- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
+| tbc  | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)           | @CorboPy          |
+| tbc  | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140) | @ThomasBebb       |
+| tbc  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
 
 ## Agenda
 
@@ -120,3 +119,4 @@ Each week the agenda is as follows:
 | Fri 13th Feb 2026 | Wikidata & SPARQL                                                                                                                      | @fjebaker                        |
 | Fri 20th Feb 2026 | What's in your Toolbox?                                                                                                                | @HallJoseph                      |
 | 27 Feb 2026       | [NVIDIA CUDA fundamentals course Review](https://github.com/astro-group-bristol/developer-group/issues/135)                            | @RhysAlfShaw                     |
+| 13th March 2026   | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                                                     | Rhys Morris                      |
