@@ -6,11 +6,11 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date | Topic                                                                                                         | Discussion Leader |
-| ---- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| tbc  | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)           | @CorboPy          |
-| tbc  | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140) | @ThomasBebb       |
-| tbc  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
+| Date             | Topic                                                                                                         | Discussion Leader |
+| ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 01 May 2026  | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)           | @CorboPy          |
+| Fri 08 May 2026  | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140) | @ThomasBebb       |
+| Fri 15 May 2026  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
 
 ## Agenda
 
