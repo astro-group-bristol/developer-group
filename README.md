@@ -8,8 +8,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                         | Discussion Leader |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 15 May 2026  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
 | Fri 22 May 2026  | [nway](https://github.com/astro-group-bristol/developer-group/issues/143)                                     | @Ileana225        |
+| Fri 29 May 2026  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
 
 ## Agenda
 
@@ -121,3 +121,4 @@ Each week the agenda is as follows:
 | 13th March 2026   | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                                                     | Rhys Morris                      |
 | Fri 01 May 2026  | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)                                     | @CorboPy                         |
 | Fri 08 May 2026  | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140)                           | @ThomasBebb                      |
+| Fri 15 May 2026  | [Planning for a Summer Hackathon](https://github.com/astro-group-bristol/developer-group/issues/138)                           | @HallJoseph                      |
