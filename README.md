@@ -8,9 +8,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                         | Discussion Leader |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 08 May 2026  | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140) | @ThomasBebb       |
 | Fri 15 May 2026  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
-| Fri 22 May 2026  | [nway](https://github.com/astro-group-bristol/developer-group/issues/141)                                     | @Ileana225        |
+| Fri 22 May 2026  | [nway](https://github.com/astro-group-bristol/developer-group/issues/143)                                     | @Ileana225        |
 
 ## Agenda
 
@@ -120,4 +119,5 @@ Each week the agenda is as follows:
 | Fri 20th Feb 2026 | What's in your Toolbox?                                                                                                                | @HallJoseph                      |
 | 27 Feb 2026       | [NVIDIA CUDA fundamentals course Review](https://github.com/astro-group-bristol/developer-group/issues/135)                            | @RhysAlfShaw                     |
 | 13th March 2026   | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                                                     | Rhys Morris                      |
-| Fri 01 May 2026  | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)           | @CorboPy          |
+| Fri 01 May 2026  | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)                                     | @CorboPy                         |
+| Fri 08 May 2026  | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140)                           | @ThomasBebb                      |
