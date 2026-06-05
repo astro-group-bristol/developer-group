@@ -10,6 +10,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 22 May 2026  | [nway](https://github.com/astro-group-bristol/developer-group/issues/143)                                     | @Ileana225        |
 | Fri 29 May 2026  | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
+| Fri 5 Jun 2026   | [Profiling and Flamegraphs Redux](https://github.com/astro-group-bristol/profiling-with-flamegraphs)          | @mbtaylor         |
 
 ## Agenda
 
