@@ -8,8 +8,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                         | Discussion Leader |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 19 June 2026 | Summer Hackathon: git init                                                                                    | All               |
-| TBC              | [Cloudy Spectral Synthesis Code](https://github.com/astro-group-bristol/developer-group/issues/139)           | Teresa Matamoro   |
+| Fri 2 October 2026 | [SPACK: A Scientific Code Package Manager for HPC Systems](https://github.com/astro-group-bristol/developer-group/issues/147)| Thomas Bebbington |
 
 ## Agenda
 
@@ -23,6 +22,7 @@ Each week the agenda is as follows:
 ## Local Members
 
 - Ailsa, PhD student working with Hannah
+- [Alex](https://github.com/CorboPy), PhD student working with Denis
 - Cathal, Postdoc working with Hannah
 - Darius, PhD student working with Andy
 - Gloria, PhD student working with Andy
@@ -40,7 +40,6 @@ Each week the agenda is as follows:
 - Thomas, PhD
 - Cai, postdoc working on Galaxy Clusters with eROSITA
 - Ileana, PhD student working on Galaxy Clusters with Ben
-- [Alex](https://github.com/CorboPy), PhD student working with Denis
 
 ## Non-Local Members
 
@@ -102,25 +101,27 @@ Each week the agenda is as follows:
 | Fri 20 Jun 2025   | [Getting Started With Open Source LLMs](https://github.com/astro-group-bristol/developer-group/issues/106)                             | @RhysAlfShaw                     |
 | Fri 20 Jun 2025   | [50th Recorded Session Razzle-dazzle Pub-Style Quiz](https://github.com/RhysAlfShaw/dev-50th-quiz)                                     | @RhysAlfShaw & @HallJoseph       |
 | Fri 19 Sep 2025   | [Welcome Back to dev group 2025/2026](https://github.com/astro-group-bristol/dev-group-2025-welcome)                                   | @RhysAlfShaw & @HallJoseph       |
-| Fri 26 Sept 2025  | [Lessons learned writing a PhD thesis (from a tooling perspective)](https://github.com/astro-group-bristol/developer-group/issues/110) | @fjebaker                        |
-| Fri 3 Oct 2025    | [Introduction to Git 2025](https://github.com/astro-group-bristol/developer-group/issues/112)                                          | @RhysAlfShaw                     |
+| Fri 26 Sep 2025   | [Lessons learned writing a PhD thesis (from a tooling perspective)](https://github.com/astro-group-bristol/developer-group/issues/110) | @fjebaker                        |
+| Fri 03 Oct 2025   | [Introduction to Git 2025](https://github.com/astro-group-bristol/developer-group/issues/112)                                          | @RhysAlfShaw                     |
 | Fri 10 Oct 2025   | [Tools of the Trade](https://github.com/astro-group-bristol/developer-group/issues/113)                                                | @HallJoseph                      |
 | Fri 17 Oct 2025   | [Pannels ft. AstronomicAL](https://github.com/astro-group-bristol/developer-group/issues/116)                                          | @Ivano                           |
 | Fri 24 Oct 2025   | [Still Shipping your computer with Docker](https://github.com/astro-group-bristol/developer-group/issues/117)                          | @RhysAlfShaw                     |
 | Fri 31 Oct 2025   | [A (re)introduction to Godot](https://github.com/astro-group-bristol/developer-group)                                                  | @HallJoseph                      |
-| Fri 7 Nov 2025    | [Terminal Tips and Tricks](https://github.com/astro-group-bristol/developer-group/issues/126)                                          | @RhysAlfShaw                     |
+| Fri 07 Nov 2025   | [Terminal Tips and Tricks](https://github.com/astro-group-bristol/developer-group/issues/126)                                          | @RhysAlfShaw                     |
 | Fri 14 Nov 2025   | [Python Packaging with Hatch](https://github.com/astro-group-bristol/developer-group/issues/114)                                       | @hstewart93                      |
-| Fri 21st Nov 2025 | [Spack](https://github.com/astro-group-bristol/developer-group/issues/132)                                                             | @ThomasBebb                      |
+| Fri 21 Nov 2025   | [Spack](https://github.com/astro-group-bristol/developer-group/issues/132)                                                             | @ThomasBebb                      |
 | Fri 28 Nov 2025   | [Advent of Code 2025](https://github.com/astro-group-bristol/developer-group/issues/131)                                               | @DariusMichienzi                 |
-| Fri 12th Dec 2025 | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129)                                               | @mbtaylor                        |
-| Fri 23rd Jan 2026 | OpenCV                                                                                                                                 | @misia-mm                        |
-| Fri 30th Jan 2026 | AoC Review                                                                                                                             | @DariusMichienzi                 |
-| Fri 13th Feb 2026 | Wikidata & SPARQL                                                                                                                      | @fjebaker                        |
-| Fri 20th Feb 2026 | What's in your Toolbox?                                                                                                                | @HallJoseph                      |
-| 27 Feb 2026       | [NVIDIA CUDA fundamentals course Review](https://github.com/astro-group-bristol/developer-group/issues/135)                            | @RhysAlfShaw                     |
-| 13th March 2026   | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                                                     | Rhys Morris                      |
-| Fri 01 May 2026  | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)                                     | @CorboPy                         |
-| Fri 08 May 2026  | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140)                           | @ThomasBebb                      |
-| Fri 15 May 2026  | [Planning for a Summer Hackathon](https://github.com/astro-group-bristol/developer-group/issues/138)                           | @HallJoseph                      |
-| Fri 22 May 2026  | [nway](https://github.com/astro-group-bristol/developer-group/issues/143)                                     | @Ileana225        |
-| Fri 5 June 2026  | [Profiling and Flamegraphs Redux](https://github.com/astro-group-bristol/profiling-with-flamegraphs)                            | @mbtaylor         |
+| Fri 12 Dec 2025   | [Virtual Observatory](https://github.com/astro-group-bristol/developer-group/issues/129)                                               | @mbtaylor                        |
+| Fri 23 Jan 2026   | OpenCV                                                                                                                                 | @misia-mm                        |
+| Fri 30 Jan 2026   | AoC Review                                                                                                                             | @DariusMichienzi                 |
+| Fri 13 Feb 2026   | Wikidata & SPARQL                                                                                                                      | @fjebaker                        |
+| Fri 20 Feb 2026   | What's in your Toolbox?                                                                                                                | @HallJoseph                      |
+| Fri 27 Feb 2026   | [NVIDIA CUDA fundamentals course Review](https://github.com/astro-group-bristol/developer-group/issues/135)                            | @RhysAlfShaw                     |
+| Fri 13 Mar 2026   | [Bash Scripting](https://github.com/astro-group-bristol/developer-group/issues/23)                                                     | Rhys Morris                      |
+| Fri 01 May 2026   | [Introduction to LFRic and iris](https://github.com/astro-group-bristol/developer-group/issues/141)                                    | @CorboPy                         |
+| Fri 08 May 2026   | [Cosmological Simulations and Swift Eagle](https://github.com/astro-group-bristol/developer-group/issues/140)                          | @ThomasBebb                      |
+| Fri 15 May 2026   | [Planning for a Summer Hackathon](https://github.com/astro-group-bristol/developer-group/issues/138)                                   | @HallJoseph                      |
+| Fri 22 May 2026   | [nway](https://github.com/astro-group-bristol/developer-group/issues/143)                                                              | @Ileana225                       |
+| Fri 05 Jun 2026   | [Profiling and Flamegraphs Redux](https://github.com/astro-group-bristol/profiling-with-flamegraphs)                                   | @mbtaylor                        |
+|-------------------|----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Fri 25 Sep 2026   | What's in your Toolbox? Tools for managing your PhD.                                                                                   | @DariusMichienzi                 |
