@@ -8,7 +8,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                         | Discussion Leader |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 8 October 2026  | [Unit testing in Python](https://github.com/astro-group-bristol/developer-group/issues/152) | Phil |
+| Fri 9 October 2026  | [Unit testing in Python](https://github.com/astro-group-bristol/developer-group/issues/152) | Phil |
 | Fri 16 October 2026 | [Cloudy - Spectral Synthesis code.](https://github.com/astro-group-bristol/developer-group/issues/139)| Teresa |
 
 ## Agenda
