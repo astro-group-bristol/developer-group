@@ -8,8 +8,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                         | Discussion Leader |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 2 October 2026 | [SPACK: A Scientific Code Package Manager for HPC Systems](https://github.com/astro-group-bristol/developer-group/issues/147) | Thomas B |
-|                  |                                                                                                               |                   |
+| Fri 8 October 2026  | [Unit testing in Python](https://github.com/astro-group-bristol/developer-group/issues/152) | Phil |
 | Fri 16 October 2026 | [Cloudy - Spectral Synthesis code.](https://github.com/astro-group-bristol/developer-group/issues/139)| Teresa |
 
 ## Agenda
@@ -126,3 +125,4 @@ Each week the agenda is as follows:
 | Fri 22 May 2026   | [nway](https://github.com/astro-group-bristol/developer-group/issues/143)                                                              | @Ileana225                       |
 | Fri 05 Jun 2026   | [Profiling and Flamegraphs Redux](https://github.com/astro-group-bristol/profiling-with-flamegraphs)                                   | @mbtaylor                        |
 | Fri 25 Sep 2026   | [What's in your Toolbox? Tools for managing your PhD.](https://github.com/astro-group-bristol/developer-group/issues/149)              | @DariusMichienzi                 |
+| Fri 02 Oct 2026   | [SPACK: A Scientific Code Package Manager for HPC Systems](https://github.com/astro-group-bristol/developer-group/issues/147)          | @ThomasBebb                      |
