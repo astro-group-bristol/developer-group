@@ -38,6 +38,12 @@
 \usepackage{cuted}      % Used to display the large matrix in the appendix across two columns
 \usepackage{upgreek}    % gives a nicer looking \mu symbol than the default, to represent "micro" as a prefix
 \usepackage{hyperref}   % allows URL hyperlinks to publicly-available source code
+\hypersetup{
+    colorlinks,
+    linkcolor={red!0!black},
+    citecolor={blue!80!black},
+    urlcolor={blue!80!black}
+}
 % \usepackage{amssymb}	% Extra maths symbols
 \usepackage{xcolor}     % Allows colors for highlighting changes in response to reviewer comments
 \usepackage[normalem]{ulem}       % Allows strikethrough for highlighting changes in response to reviewer comments
@@ -61,14 +67,9 @@
 
 \newcommand{\revise}[1]{\textcolor{red}{\bf#1}}
 
-\chapternumberfont{\fontsize{60}{70}\selectfont }
+\chapternumberfont{\fontsize{60}{70}\selectfont}
+\chaptertitlefont{\fontsize{20}{20}\selectfont}
 
-%\newcommand\jcap{{J.~Cosmol.~Astropart.~Phys.}}%
-          % Journal of Cosmology and Astroparticle Physics
-%\newcommand\nar{{New Astron.~Rev.}}%
-          % New astronomy Reviews
-
-%\renewcommand\thesubsubsection{\alph{subsubsection})} % MGL COMMENTED THIS OUT BECAUSE IT WAS REFERENCING SUBSUBSECTIONS IN A WEIRD WAY
 \begin{document}
 \title{My Thesis Title}
 
