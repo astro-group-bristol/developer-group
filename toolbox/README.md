@@ -10,6 +10,8 @@ Format your entry in the following way:
   Find more [here](https://url).
 -->
 
+- **Thesis_Template_2026**: (as of October 2026) LaTeX thesis template (both zipped and unzipped) that complies with UoB rules (e.g., statement on use of gen AI, table/statement on including published work in your thesis, list of abbreviations etc.) Credits: Cai Wood, Matt Lodge, Lucy Taylor. Please feel free to edit and keep updated.
+
 - **cal**: A command line calendar installed on pretty much every Linux system by default:
   ```
   $ cal
