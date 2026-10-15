@@ -1,0 +1,110 @@
+\documentclass[11pt,thesis]{starthesis} %use twoside option for book printing
+%\documentclass[11pt, twoside, MSc]{starthesis}
+\usepackage[round]{natbib}
+\usepackage{aas_macros}
+\usepackage{times}
+\usepackage{lscape}
+\usepackage{amssymb}
+%\usepackage{psfig,epsfig,dcolumn}
+\usepackage{times}
+\usepackage[utf8]{inputenc}
+\usepackage{amssymb}
+\usepackage{epsf}
+\setcounter{secnumdepth}{3}
+%\usepackage{rotating}
+\usepackage{multirow}
+\usepackage[toc,page]{appendix}
+\usepackage{placeins}
+\usepackage{epsfig}
+%\usepackage{subfigure}
+\usepackage{makeidx}
+\usepackage{url}
+\usepackage[margin=1cm,labelfont=bf,font={small}]{caption}
+\usepackage{fancyhdr}
+\usepackage[headsep=0.5cm,headheight=3cm]{geometry}
+\usepackage{sectsty}
+\usepackage{longtable}
+\usepackage{caption}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{array}
+\usepackage{longtable}
+
+% MGL PACKAGES
+\usepackage{gensymb} % Allows degrees symbol
+\usepackage{graphicx}	% Including figure files
+\usepackage{amsmath}	% Advanced maths commands
+\usepackage{booktabs}   % Gives nicer formatting for Table 2
+\usepackage{cuted}      % Used to display the large matrix in the appendix across two columns
+\usepackage{upgreek}    % gives a nicer looking \mu symbol than the default, to represent "micro" as a prefix
+\usepackage{hyperref}   % allows URL hyperlinks to publicly-available source code
+% \usepackage{amssymb}	% Extra maths symbols
+\usepackage{xcolor}     % Allows colors for highlighting changes in response to reviewer comments
+\usepackage[normalem]{ulem}       % Allows strikethrough for highlighting changes in response to reviewer comments
+\usepackage{braket}     % Allows <bra-ket> notation for cos(theta) terms
+\usepackage{subcaption}     % Allows <bra-ket> notation for cos(theta) terms
+\usepackage[version=4]{mhchem} % Does all the subscripts for you in chemical equations (e.g. just write \ce{Mg2SiO4})
+\usepackage{adjustbox}
+\usepackage{changepage}
+
+\makeindex
+\fancyhf{}
+
+\def\gappeq{\mathrel{ \rlap{\raise.5ex\hbox{$>$}}
+                      {\lower.5ex\hbox{$\sim$}}  } }
+\def\lappeq{\mathrel{ \rlap{\raise.5ex\hbox{$<$}}
+                      {\lower.5ex\hbox{$\sim$}}  } }
+
+\makeatletter
+\renewcommand{\@chapapp }{}
+\makeatother
+
+\newcommand{\revise}[1]{\textcolor{red}{\bf#1}}
+
+\chapternumberfont{\fontsize{60}{70}\selectfont }
+
+%\newcommand\jcap{{J.~Cosmol.~Astropart.~Phys.}}%
+          % Journal of Cosmology and Astroparticle Physics
+%\newcommand\nar{{New Astron.~Rev.}}%
+          % New astronomy Reviews
+
+%\renewcommand\thesubsubsection{\alph{subsubsection})} % MGL COMMENTED THIS OUT BECAUSE IT WAS REFERENCING SUBSUBSECTIONS IN A WEIRD WAY
+\begin{document}
+\title{My Thesis Title}
+
+\author{Your Name}
+\dept{Physics}     
+\principaladviser{Prof. Xavier and Dr. Who}
+\submitdate{December 2026}
+\copyrightyear{2026}
+\copyrightfalse
+\sigpagefalse 
+%\beforeabstract
+%\afterabstract
+\pagestyle{plain}
+\include{dedication}
+%\afterpreface
+\pagestyle{plain}
+
+\hsp
+\include{Chapters/Chapter_0_Preamble}
+\cleardoublepage
+\include{Chapters/Chapter_1_Introduction}
+\include{Chapters/Chapter_2_Theoretical_Methods}
+\include{Chapters/Chapter_3_Science1}
+\include{Chapters/Chapter_4_Science2}
+\include{Chapters/Chapter_5_Science3}
+\include{Chapters/Chapter_6_Conclusions}
+\pagestyle{plain}
+\cleardoublepage
+\appendix
+\pagestyle{fancy}
+\include{appendix/appendix_A}
+\include{appendix/appendix_B}
+\printindex
+\dsp
+\addcontentsline{toc}{chapter}{Bibliography}
+\bibliographystyle{mnras}
+\bibliography{references}
+
+\end{document}

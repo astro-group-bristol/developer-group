@@ -1,0 +1,215 @@
+% Define these variables.
+\title{My Thesis Title}
+\author{Author}
+
+\submitdate{December 2026}
+\copyrightyear{2026}
+\dept{Physics}     
+\principaladviser{Prof. Xavier and Dr. Who} 
+
+\pagenumbering{roman} % Jan 2000 GSAS Harvard req.
+\pagestyle{empty}
+\titlep % see starthesis.cls
+
+%\sigpagefalse 
+%\beforeabstract
+%\afterabstract
+
+%%%%%%%%%%%%%%%%%%%%%% Synopsis %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+\pagestyle{plain} 
+\section*{Abstract}
+
+Science is very important. Bla bla bla.
+
+%%%%%%%%%%%%%%%%%%%%% Dedication %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\cleardoublepage
+\pagestyle{plain} 
+\section*{Dedication (Optional)}
+    \vspace{0.25\textheight}
+    \begin{center}
+        \textit{To Warner Hunnington III. \\ I'll show you how valuable Elle Woods can be.}
+    \end{center}
+
+
+%%%%%%%%%%%%%%%%%%%%% Acknowledgments %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\cleardoublepage
+\pagestyle{plain} 
+\section*{Acknowledgements (Optional)}
+
+I did it all by myself.
+
+Last but not least, I wanna thank me. I wanna thank me for believing in me. I wanna thank me for doing all this hard work. I wanna thank me for having no days off. I wanna thank me for never quitting.
+
+%%%%%%%%%%%%%%%%%%%% DECLARATION  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+\phantomsection
+\pagestyle{plain} 
+\begin{declaration}
+
+I declare that the work in this dissertation was carried out in accordance with the requirements of the University's Regulations and Code of Practice for Research Degree Programmes and that it has not been submitted for any other academic award. Except where indicated by specific reference in the text, the work is my own work. Work done in collaboration with, or with the assistance of, others is indicated as such. I confirm that I have read, and that this work complies with, the University’s guidance for PGR students on the use of artificial intelligence tools in thesis writing. Any views expressed in the dissertation are those of the author.
+
+\par\vspace*{3cm}\par
+
+\noindent SIGNED: Your Name. \\ 
+DATE: 01/12/26
+
+%\vspace{2cm}
+
+\end{declaration}
+
+%%%%%%%%%%%%%%%%%%%% STATEMENT ON THE INCLUSION OF PUBLISHED AND COLLABORATIVE WORK  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+\phantomsection
+\pagestyle{plain} 
+\begin{statement_published_work}
+
+My dissertation does include work that has been published, submitted or prepared for publication with me as an author.
+My dissertation does not include non-published collaborative work that contains data or contributions from others.
+
+\noindent If there are any publications with me as an author and/or any collaborative work that contains data or contributions from others, I have completed the following table. 
+
+% MGL CUSTOM LONGTABLE (spans across separate pages)
+
+% make custom column command to left-align text
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+
+% custom command for making space between paragraphs within longtable environment
+\newcommand{\blankline}{\par\vspace{1em}}
+
+\begin{longtable}{L{0.2\linewidth} | L{0.45\linewidth} | L{0.35\linewidth}}
+
+    \hline
+    \textbf{Chapter}  & \textbf{Publication or collaboration details} & \textbf{Author contributions}\\
+    %The chapter or section that contains the student’s own published work or collaborative work. Specify if this forms a whole chapter, a whole section, or has been included in smaller segments 
+    %& Details on the publication, including title of the work, author list, name of journal or preprint service, and weblink to the publication (if available) OR an overview of how the collaboration was conducted.
+    %& Details on the specific contributions of each author to the publication or of each contributor to the collaboration. \\
+    \hline
+    \endfirsthead
+
+    % this part does the running head for the column titles on subsequent pages
+    \hline
+    \textbf{Chapter}  & \textbf{Publication or collaboration details} & \textbf{Author contributions}\\
+    \hline
+    \endhead
+    
+    Chapter 1: Introduction 
+    & Parts from the introductions of each of the following published papers were combined to make the introduction of the thesis. This is to enhance readability and prevent repetition of the context at the start of each chapter: 
+    \blankline
+    \textit{“Aerosols are not Spherical Cows: Using Discrete Dipole Approximation to Model the Properties of Fractal Particles” (2024)}
+    \par
+    Lodge, M., Wakeford, H. and Leinhardt, Z., MNRAS, 527(4), pp.11113-11137
+    
+    & All of this section is written entirely by me, including integration of a small amount of content from the introductions from my published papers.
+    \\
+    \hline
+    
+    Chapter 2: Theoretical Methods 
+    & The theory sections of the following papers have been extracted into their own chapter, to prevent repetition:
+    \blankline
+    \textit{“Aerosols are not Spherical Cows: Using Discrete Dipole Approximation to Model the Properties of Fractal Particles” (2024)} 
+    \par
+    Lodge, M., Wakeford, H. and Leinhardt, Z., MNRAS, 527(4), pp.11113-11137.
+    \blankline
+    & These explanations are identical to those written by me in the published papers, with the one exception that small typos in the original DDA-FCD equations have been corrected here.
+    \\
+    \hline
+    
+    Chapter 3: A Science Chapter
+    & All sections of this chapter were published as a journal article:
+    \blankline
+    \textit{“Aerosols are not Spherical Cows: Using Discrete Dipole Approximation to Model the Properties of Fractal Particles” (2024)}
+    \par
+    Lodge, M., Wakeford, H. and Leinhardt, Z., MNRAS, 527(4), pp.11113-11137.
+    \blankline
+    The published journal article was slightly modified for this chapter by merging the appendices into the main text.  
+    & I wrote all code, prepared the publication and created all figures used. Other co-authors provided valuable guidance and diagnostic expertise in advisory and supportive roles.
+    \\
+    \hline
+    
+    Chapter 8: Extended Discussion 
+    & This section was not published, and was entirely new for the thesis.
+    & Entirely written by me.
+    \\
+    \hline
+    
+    Chapter 9: Conclusions 
+    & This section was not published, and was entirely new for the thesis.
+    & Entirely written by me.
+    \\    
+    \hline
+
+\end{longtable}
+
+The information in this table counts as the references to my own publications if they are used as whole chapters or as whole sections of chapters. If work from my own publications has been incorporated in smaller segments, I have included individual references to them in the relevant part of the dissertation in addition to completing the table.
+
+%\vspace{2cm}
+
+\end{statement_published_work}
+
+
+%%%%%%%%%%%%%%%%%%%%% Table of contents etc  %%%%%%%%%%%%%%%%%%%%%%%%%
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{section}{Table of Contents}
+\thispagestyle{empty}
+\tableofcontents
+
+\pagestyle{plain}
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{section}{List of Figures}
+\thispagestyle{empty}
+\listoffigures
+
+
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{section}{List of Tables}
+\thispagestyle{empty}
+\listoftables
+
+% ADD LIST OF ABBREVIATIONS
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{section}{List of Abbreviations}
+\thispagestyle{plain}
+\chapter*{List of Abbreviations}
+
+% define new column types
+\newcolumntype{C}[1]{>{\centering\bfseries\arraybackslash}p{#1}} % centered, bold
+\newcolumntype{B}[1]{>{\raggedright\bfseries\arraybackslash}p{#1}} % centered, bold
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}       % left-aligned
+
+\begin{longtable}{@{} B{0.25\textwidth} L{0.7\textwidth} @{}} % 25% the acronym, 75% the full version
+
+    AAA & All Acronyms Alphabetical \\
+    HPC & High-Performance Computing \\
+    HST & Hubble Space Telescope \\
+    ISM & Interstellar Medium \\
+    JWST & James Webb Space Telescope \\
+    SEM & Scanning Electron Microscope \\
+    SNR & Signal-to-noise ratio \\
+    STIS & Space Telescope Imaging Spectrograph \\
+    TEM & Transmission Electron Microscope \\
+    VTPR & Very Tired Postgraduate Researcher \\
+    YMCA & Young Men's Christian Association \\
+    ZZZ & ZStudent ZWithout ZCoffee
+
+\end{longtable}
+
+
+\cleardoublepage
+
+\startarabicpagination % switch from roman numerals to numbers
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\it\nouppercase\leftmark\slshape}
+\fancyhead[RO]{\it\nouppercase\rightmark\slshape}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
