@@ -39,7 +39,7 @@ Each week the agenda is as follows:
 - [Rhys M](https://github.com/rhysaph), Astro computing manager
 - Thomas, PhD
 - Cai, postdoc working on Galaxy Clusters with eROSITA
-- Ileana, PhD student working on Galaxy Clusters with Ben
+- [Ileana](https://github.com/Ileana225), PhD student working on Galaxy Clusters with Ben
 
 ## Non-Local Members
 
