@@ -8,7 +8,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                         | Discussion Leader |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 23 October 2026 | [Git and Venvs](https://github.com/astro-group-bristol/developer-group/issues/160)| Joe |
+| Fri 23 October 2026 | [Git](https://github.com/astro-group-bristol/developer-group/issues/160)| Joe |
 
 ## Agenda
 
