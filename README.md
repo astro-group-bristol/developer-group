@@ -8,7 +8,7 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 
 | Date             | Topic                                                                                                         | Discussion Leader |
 | ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 23 October 2026 | [Git](https://github.com/astro-group-bristol/developer-group/issues/160)| Joe |
+| Fri 27 November 2026 | [Advent of Code 2026](https://github.com/astro-group-bristol/developer-group/issues/150)| Darius |
 
 ## Agenda
 
@@ -24,7 +24,7 @@ Each week the agenda is as follows:
 - Ailsa, PhD student working with Hannah
 - [Alex](https://github.com/CorboPy), PhD student working with Denis
 - Cathal, Postdoc working with Hannah
-- Darius, PhD student working with Andy
+- [Darius](https://dariusmichienzi.github.io/), PhD student working with Andy
 - Gloria, PhD student working with Andy
 - [J.C.Baguley](https://research-information.bris.ac.uk/en/persons/cale-baguley-2), Postdoctoral research asociate in School of Biological Sciences
 - Lucy, PhD student
@@ -127,3 +127,4 @@ Each week the agenda is as follows:
 | Fri 02 Oct 2026   | [SPACK: A Scientific Code Package Manager for HPC Systems](https://github.com/astro-group-bristol/developer-group/issues/147)          | @ThomasBebb                      |
 | Fri 09 Oct 2026   | [Unit testing in Python](https://github.com/astro-group-bristol/developer-group/issues/152)                                            | @PhilJCarter                     |
 | Fri 16 Oct 2026   | [Cloudy - Spectral Synthesis code.](https://github.com/astro-group-bristol/developer-group/issues/139)                                 | @teresamatamoro                  |
+| Fri 23 Oct 2026   | [Git](https://github.com/astro-group-bristol/developer-group/issues/160)                                                               | @HallJoseph                      |
