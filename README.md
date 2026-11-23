@@ -6,10 +6,9 @@ Astrophysics Developer Group central repository for sharing issues, wins, resour
 
 The Astrophysics Developer Group meets every Friday 4-5 pm.
 
-| Date             | Topic                                                                                                         | Discussion Leader |
-| ---------------- | ------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Fri 13 November 2026 | [Making an Academic Website with Quarto](https://github.com/astro-group-bristol/developer-group/issues/165)| Darius |
-| Fri 27 November 2026 | [Advent of Code 2026](https://github.com/astro-group-bristol/developer-group/issues/150)| Darius |
+| Date                 | Topic                                                                                        | Discussion Leader |
+| -------------------- | -------------------------------------------------------------------------------------------- | ----------------- |
+| Fri 27 November 2026 | [Advent of Code 2026](https://github.com/astro-group-bristol/developer-group/issues/150)     | Darius            |
 
 ## Agenda
 
@@ -129,3 +128,4 @@ Each week the agenda is as follows:
 | Fri 09 Oct 2026   | [Unit testing in Python](https://github.com/astro-group-bristol/developer-group/issues/152)                                            | @PhilJCarter                     |
 | Fri 16 Oct 2026   | [Cloudy - Spectral Synthesis code.](https://github.com/astro-group-bristol/developer-group/issues/139)                                 | @teresamatamoro                  |
 | Fri 23 Oct 2026   | [Git](https://github.com/astro-group-bristol/developer-group/issues/160)                                                               | @HallJoseph                      |
+| Fri 13 Nov 2026   | [Making an Academic Website with Quarto](https://github.com/astro-group-bristol/developer-group/issues/165)                            | @DariusMichienzi                 |
