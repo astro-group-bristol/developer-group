@@ -9,6 +9,8 @@ The Astrophysics Developer Group meets every Friday 4-5 pm.
 | Date                 | Topic                                                                                        | Discussion Leader |
 | -------------------- | -------------------------------------------------------------------------------------------- | ----------------- |
 | Fri 27 November 2026 | [Advent of Code 2026](https://github.com/astro-group-bristol/developer-group/issues/150)     | Darius            |
+| Fri 4 December 2026  | [Using Gravitational Wave data ahead of the GWTC 6 release](https://github.com/astro-group-bristol/developer-group/issues/168)    | Biz               |
+| Fri 11 December 2026 | [Introduction to C](https://github.com/astro-group-bristol/developer-group/issues/170)              | Thomas B          |
 
 ## Agenda
 
